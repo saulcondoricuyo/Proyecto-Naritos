@@ -15,8 +15,6 @@ Página web Ecommerce para un emprendimiento de Accesorios como aritos y collare
 
 
 
-
-
 ## Run Locally
 
 Para instalar la pagina de Naritos Accesorios, solo tenes que clonar el repositorio.
@@ -26,13 +24,6 @@ Para instalar la pagina de Naritos Accesorios, solo tenes que clonar el reposito
 ```
 
 Y despues correr el "Live Server" en Visual Studio Code.
-
-
-    
-## Authors
-
-- [@lusianox](https://github.com/lusianox)
-- [@dev-eloy](https://github.com/dev-eloy)
 
 
 
