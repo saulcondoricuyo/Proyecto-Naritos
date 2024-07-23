@@ -14,28 +14,6 @@ Página web Ecommerce para un emprendimiento de Accesorios como aritos y collare
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #212529 |
 
 
-
-
-
-## Run Locally
-
-Para instalar la pagina de Naritos Accesorios, solo tenes que clonar el repositorio.
-
-```bash
-  git clone https://github.com/lusianox/Naritos-Accesorios.git
-```
-
-Y despues correr el "Live Server" en Visual Studio Code.
-
-
-    
-## Authors
-
-- [@lusianox](https://github.com/lusianox)
-- [@dev-eloy](https://github.com/dev-eloy)
-
-
-
 # Screenshots
 
 ![Home Page](https://i.imgur.com/E9R4BZu.png)
