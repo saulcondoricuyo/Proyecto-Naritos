@@ -14,9 +14,3 @@ Página web Ecommerce para un emprendimiento de Accesorios como aritos y collare
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #212529 |
 
 
-# Screenshots
-
-![Home Page](https://i.imgur.com/E9R4BZu.png)
---------------------------
-![Carrito Page](https://i.imgur.com/BvltGgh.png)
-
